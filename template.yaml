@@ -1,8 +1,8 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: add-branch-protection
-  title: Add Branch Protection
+  name: add-branch-protection-action
+  title: Add Branch Protection but action
   description: Turn on branch protection with some sensible defaults.
 
 spec:
